@@ -141,13 +141,13 @@ git clone <your-repository-url>
 ### Step 2: Navigate to the Project Folder
 
 ```bash
-cd python-conditionals-smart-canteen
+cd smart-canteen
 ```
 
 ### Step 3: Run the Python Program
 
 ```bash
-python smart_canteen_discount.py
+python canteen.py
 ```
 
 ## 📸 Sample Program Output
